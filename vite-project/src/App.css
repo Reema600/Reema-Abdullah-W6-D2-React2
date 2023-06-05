@@ -1,0 +1,99 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+/* 
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+} */
+/* =========================================================== */
+/* .hello{
+  text-align: center;
+  width: fit-content;
+  background-color:bisque;
+
+ 
+} */
+
+.p-4{
+  text-align:center;
+  margin: auto;
+  font-weight: bold;
+  font-size: x-large;
+}
+.card-comp{
+  font-weight: bold;
+  border-style: inset;
+  border-width: 10px;  
+  border-radius: 10px;
+}
+
+.img{
+  width: 50px;
+  height: 50px;
+}
+.card{
+  display: inline-grid;
+  grid-template-columns: auto auto auto;
+  margin: 50px;
+  gap: 50px;
+}
+.card-prog1{
+
+  /* margin-inline-start: 200px; */
+  border-style: inset;
+  border-width: 10px;  
+  border-radius: 10px;
+  width: 200px;
+
+  
+}
+.card-prog2{
+  /* margin-inline-start: 200px; */
+  
+  border-style: inset;
+  border-width: 10px;  
+  border-radius: 10px;
+  width: 200px;
+}
+.card-prog3{
+  /* margin-inline-start: 200px; */
+  border-style: inset;
+  border-width: 10px;  
+  border-radius: 10px;
+  width: 200px;
+}
